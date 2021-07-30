@@ -1,0 +1,9 @@
+.searchBox
+{
+    border : 1px solid grey;
+    outline: none;
+    width:150px;
+    padding : 10px;
+    line-height: 30px;
+    margin : 30px;
+}
